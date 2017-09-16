@@ -1,4 +1,8 @@
 22222
 add new feature
+<<<<<<< HEAD
 feature2
 add new feature
+=======
+feature2
+>>>>>>> add feature2
