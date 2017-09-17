@@ -1,16 +1,3 @@
 22222
 add new feature
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 feature2
-add new feature
-=======
-feature2
->>>>>>> add feature2
-=======
-feature2
->>>>>>> rename
-=======
-feature2
->>>>>>> dd130f1947847c51d5bfc29882bcde18056f9b7d
