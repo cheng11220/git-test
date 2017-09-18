@@ -2,6 +2,7 @@
 中文
 2222
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 aa
@@ -20,5 +21,7 @@ function(){
 
 
 
+=======
+>>>>>>> 96ec8a4... Revert "rename"
 =======
 >>>>>>> 96ec8a4... Revert "rename"
