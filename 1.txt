@@ -1,24 +1,3 @@
 1111
 中文
 2222
-<<<<<<< HEAD
-
-
-aa
-
-acc
-
-
-cc
-
-cc
-function(){
-    var a = b;
-
-    if(aa=bb){}
-}
-
-
-
-=======
->>>>>>> 96ec8a4... Revert "rename"
