@@ -1,3 +1,21 @@
 1111
 中文
 2222
+
+
+aa
+
+acc
+
+
+cc
+
+cc
+function(){
+    var a = b;
+
+    if(aa=bb){}
+}
+
+
+
