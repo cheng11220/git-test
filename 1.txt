@@ -1,5 +1,6 @@
 1111
 中文
+<<<<<<< HEAD
 2222
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -25,3 +26,6 @@ function(){
 >>>>>>> 96ec8a4... Revert "rename"
 =======
 >>>>>>> 96ec8a4... Revert "rename"
+=======
+2222
+>>>>>>> 50fd312... adjust 1.txt
